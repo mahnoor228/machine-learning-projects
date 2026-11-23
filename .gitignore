@@ -1,0 +1,11 @@
+# Downloaded datasets and model outputs (never committed)
+data/
+*.zip
+*.csv
+*.h5
+*.keras
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
