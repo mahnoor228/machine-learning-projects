@@ -4,8 +4,6 @@ Five beginner friendly machine learning projects, each one complete and
 runnable end to end: real datasets, real models, real results. Built to
 learn the core ideas of ML by doing them, one project at a time.
 
-Project ideas came from @pirknn's Instagram reel on beginner ML projects.
-
 ## Projects
 
 | # | Project | What it does | Tech | Headline result |
